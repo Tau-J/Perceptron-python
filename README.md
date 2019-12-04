@@ -21,30 +21,38 @@ This is a project of CUHK CMSC 5724
 
 1. Project Files Preview：
 2. Program Usage Guide：
+
   ----2.1 Required Environment
+
   ----2.2 Data Generation 
+
   ----2.3 Run main.py  
+
 3. Function Supplementary Instruction：
+
   ----3.1 Margin Perceptron
+
   ----3.2 Polynomial Kernel
+
   ----3.3 Gaussian Kernel
+
   ----3.4 Evaluation
 
 
 ## Project File Preview：
 
-├── create_data.py                      // Code for training data and test data generation
-├── README.txt                         // Readme file for this project
-├── Evaluation.py                        // Code for cross validation, setting criterion and plotting result
-├── main.py                                // Main function for whole project
-├── margin_perceptron.py           // Code for linear margin perceptron
-├── gaussian_kernel.py                // Code for gaussian kernel margin perceptron
-├── polynomial_kernel.py            // Code for polynimial kernel margin perceptron
-├── new_train_d7.txt                   // Generation training dataset with n=60 and d=3（For alternative choose）
-├── new_test_d7.txt                    // Generation test dataset with n=20 and d=3 （For alternative choose）
-├── new_train_d9.txt                   // Generation training dataset with n=20000 and d=3
-├── new_test_d9.txt                    // Generation test dataset with n=10000 and d=3
-├── Contribution Declaration      // Contribution Declaration for each group members
+> ├── create_data.py                      // Code for training data and test data generation
+> ├── README.txt                         // Readme file for this project
+> ├── Evaluation.py                        // Code for cross validation, setting criterion and plotting result
+> ├── main.py                                // Main function for whole project
+> ├── margin_perceptron.py           // Code for linear margin perceptron
+> ├── gaussian_kernel.py                // Code for gaussian kernel margin perceptron
+> ├── polynomial_kernel.py            // Code for polynimial kernel margin perceptron
+> ├── new_train_d7.txt                   // Generation training dataset with n=60 and d=3（For alternative choose）
+> ├── new_test_d7.txt                    // Generation test dataset with n=20 and d=3 （For alternative choose）
+> ├── new_train_d9.txt                   // Generation training dataset with n=20000 and d=3
+> ├── new_test_d9.txt                    // Generation test dataset with n=10000 and d=3
+> ├── Contribution Declaration      // Contribution Declaration for each group members
 
 
 ## Program Usage Guide:
