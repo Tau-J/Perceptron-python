@@ -16,6 +16,8 @@ This is a project of CUHK CMSC 5724
 > ​	ZHUANG, Zhende
 >
 > ​	CUI, Mingyu
+
+
 ##Menu
 
 1. Project Files Preview：
@@ -28,6 +30,8 @@ This is a project of CUHK CMSC 5724
   ----3.2 Polynomial Kernel
   ----3.3 Gaussian Kernel
   ----3.4 Evaluation
+
+
 
 ##Project File Preview：
 
@@ -43,6 +47,8 @@ This is a project of CUHK CMSC 5724
 ├── new_train_d9.txt                   // Generation training dataset with n=20000 and d=3
 ├── new_test_d9.txt                    // Generation test dataset with n=10000 and d=3
 ├── Contribution Declaration      // Contribution Declaration for each group members
+
+
 
 ##Program Usage Guide:
 
