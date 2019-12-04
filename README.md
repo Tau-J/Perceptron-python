@@ -17,7 +17,7 @@ This is a project of CUHK CMSC 5724
 >
 > ​	CUI, Mingyu
 
-##Menu
+## Menu
 
 1. Project Files Preview：
 2. Program Usage Guide：
@@ -31,7 +31,7 @@ This is a project of CUHK CMSC 5724
   ----3.4 Evaluation
 
 
-##Project File Preview：
+## Project File Preview：
 
 ├── create_data.py                      // Code for training data and test data generation
 ├── README.txt                         // Readme file for this project
@@ -47,7 +47,7 @@ This is a project of CUHK CMSC 5724
 ├── Contribution Declaration      // Contribution Declaration for each group members
 
 
-##Program Usage Guide:
+## Program Usage Guide:
 
 #### Required Enviroment:
 
@@ -76,6 +76,6 @@ for i in range(dimension):
 
 And then use your own w to replace it.
 
-#####step2: generate random points and save them to the point list
+##### step2: generate random points and save them to the point list
 
 Notice that in this part the dimensions values of each point are range in integer (-9999,9999) (you can modify it by changing the code). Also we have set the restriction that there is no repeaded points in our datasets.
